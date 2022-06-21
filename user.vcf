@@ -10,6 +10,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:mohamed.youssef@aym-solutions.com
 TEL;type=WORK;type=VOICE:+971 5623 65737
 item1.ADR;type=WORK;type=pref:;;Accelerator Building, Masdar City\nAbu Dhabi;;;;UAE
 item2.X-ABADR:ae
-item3.URL;type=pref:https\://aym-solutions.com
+item3.URL;type=pref:http\://www.aym-solutions.com
 item3.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
